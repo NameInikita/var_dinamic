@@ -1,2 +1,8 @@
 C:\Users\NameInikita\Documents\GIT\var_dynamic\var_dynamic\bin\Debug\var_dynamic.exe.config
 C:\Users\NameInikita\Documents\GIT\var_dynamic\bin\Debug\var_dynamic.exe.config
+C:\Users\NameInikita\Documents\GIT\dynamic_var\bin\Debug\var_dynamic.exe.config
+C:\Users\NameInikita\Documents\GIT\dynamic_var\bin\Debug\var_dynamic.exe
+C:\Users\NameInikita\Documents\GIT\dynamic_var\bin\Debug\var_dynamic.pdb
+C:\Users\NameInikita\Documents\GIT\dynamic_var\obj\Debug\var_dynamic.csprojResolveAssemblyReference.cache
+C:\Users\NameInikita\Documents\GIT\dynamic_var\obj\Debug\var_dynamic.exe
+C:\Users\NameInikita\Documents\GIT\dynamic_var\obj\Debug\var_dynamic.pdb
