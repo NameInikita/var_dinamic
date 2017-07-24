@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("var_dinamic")]
+[assembly: AssemblyTitle("var_dynamic")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("var_dinamic")]
+[assembly: AssemblyProduct("var_dynamic")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("2aed39fd-d911-4be1-8efe-68f1edcdd952")]
+[assembly: Guid("77468ac9-938b-4fea-ae26-41a7a02d87ef")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace var_dynamic
 {
-    class MClass
-    {
-        dynamic field;
-    }
     class Program
     {
+        class MyClass
+        {
+            dynamic field;
+        }
         static void Main(string[] args)
         {
 
